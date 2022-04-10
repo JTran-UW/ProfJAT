@@ -9,6 +9,6 @@ I'm currently open to work!  Though I'm graduating high school this year, I plan
 ## Computer Science II-IV
 These are projects I completed as a part of my school's Computer Science class.  The requirements are my teacher's, but the ideas and implementation are all mine.
 
- - [Simon] (https://github.com/ProfJAT/simon)
- - [Cheeps] (https://github.com/ProfJAT/cheeps-app)
- - [Cool Tweets] (https://github.com/ProfJAT/cool-tweets)
+ - [Simon] (https://github.com/ProfJAT/simon "Simon")
+ - [Cheeps] (https://github.com/ProfJAT/cheeps-app "Cheeps")
+ - [Cool Tweets] (https://github.com/ProfJAT/cool-tweets "Cool Tweets")
