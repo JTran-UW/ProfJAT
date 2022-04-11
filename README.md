@@ -16,3 +16,15 @@ These are projects I completed as a part of my school's Computer Science class. 
  - [Simon](https://github.com/ProfJAT/simon)
  - [Cheeps](https://github.com/ProfJAT/cheeps-app)
  - [Cool Tweets](https://github.com/ProfJAT/cool-tweets)
+
+## Organizational
+These are projects I completed with organizations.
+
+ - [Online Escape Room (Teens In Public Service)](https://github.com/ProfJAT/escape-room)
+ - [Website and Django Workshop (IBY Lab)](https://github.com/iby-lab)
+ - 
+The website repo is currently set to private.
+
+ - [Lakeside Eats Website (Lakeside Eats)](https://github.com/panda2k/lakeside-eats)
+
+This repo is also set to private.
