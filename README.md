@@ -18,7 +18,7 @@ These are projects I completed as a part of my school's Computer Science class. 
  - [Cool Tweets](https://github.com/ProfJAT/cool-tweets)
 
 ## Organizational
-These are projects I completed with organizations.
+These are projects I completed as a developer for a broader organization.
 
  - [Online Escape Room (Teens In Public Service)](https://github.com/ProfJAT/escape-room)
  - [Website and Django Workshop (IBY Lab)](https://github.com/iby-lab)
