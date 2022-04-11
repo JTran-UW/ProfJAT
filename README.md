@@ -22,7 +22,7 @@ These are projects I completed with organizations.
 
  - [Online Escape Room (Teens In Public Service)](https://github.com/ProfJAT/escape-room)
  - [Website and Django Workshop (IBY Lab)](https://github.com/iby-lab)
- - 
+
 The website repo is currently set to private.
 
  - [Lakeside Eats Website (Lakeside Eats)](https://github.com/panda2k/lakeside-eats)
