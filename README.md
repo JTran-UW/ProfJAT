@@ -1,6 +1,6 @@
 ### I'm Josh, and this is my Github 👋
 
-I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](#Computer-Science-II-IV), [Escape Room](#Organizational), and my [Python Marketwatch API](#Fintech)
+I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](#Computer-Science-II-IV), [Sydney's Nook](#Organizational), and my [Python Marketwatch API](#Fintech)
 
 I'm currently open to work!  I'm graduating high school this year, and I will be attending the University of Washington for Computer Science this year.
 
@@ -29,6 +29,9 @@ The website repo is currently set to private.
  - [Lakeside Eats Website (Lakeside Eats)](https://github.com/panda2k/lakeside-eats)
 
 This repo is also set to private.
+
+ - [Sydney's Nook, fashion/lifestyle blog](https://github.com/ProfJAT/sydneys-nook)
+ - [The New Storefront Project Website](https://github.com/ProfJAT/nsfp-web)
 
 ## Fintech
 These are projects that fall under the fintech space, which I explored extensively over the past year.
