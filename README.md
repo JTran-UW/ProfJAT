@@ -2,7 +2,7 @@
 
 I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](#Computer-Science-II-IV), [Sydney's Nook](#Organizational), and my [Python Marketwatch API](#Fintech)
 
-I'm currently open to work!  I'm graduating high school this year, and I will be attending the University of Washington for Computer Science this year.
+I have graduated high school this year, and I will be attending the University of Washington for Computer Science in the fall.
 
 ## Table Of Contents
 
