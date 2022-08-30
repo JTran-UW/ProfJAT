@@ -30,7 +30,7 @@ The website repo is currently set to private.
 
 This repo is also set to private.
 
- - [Sydney's Nook, fashion/lifestyle blog](https://github.com/ProfJAT/sydneys-nook)
+ - [Sydney's Nook (Fashion/Lifestyle Blog)](https://github.com/ProfJAT/sydneys-nook)
  - [The New Storefront Project Website](https://github.com/ProfJAT/nsfp-web)
 
 ## Fintech
