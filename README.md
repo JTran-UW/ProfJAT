@@ -1,6 +1,6 @@
 ### I'm Josh, and this is my Github 👋
 
-I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](#Computer-Science-II-IV), [Sydney's Nook](#Organizational), and my [Python Marketwatch API](#Fintech)
+I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](https://github.com/ProfJAT/cool-tweets), [Sydney's Nook](https://github.com/ProfJAT/sydneys-nook), and my [Python Marketwatch API](https://github.com/ProfJAT/marketwatch-api-py)
 
 I have graduated high school this year, and I will be attending the University of Washington for Computer Science in the fall.
 
