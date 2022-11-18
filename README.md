@@ -2,7 +2,7 @@
 
 I'm a young and ambitious software engineer coming out of Seattle.  I mainly work in web development, data science/ML, and automation, but my greatest strength is an eager learning mindset.  These are my favorite projects from the past 4-5 years of software development.  I would definitely recommend [Cool Tweets](https://github.com/ProfJAT/cool-tweets), [Sydney's Nook](https://github.com/ProfJAT/sydneys-nook), and my [Python Marketwatch API](https://github.com/ProfJAT/marketwatch-api-py)
 
-I have graduated high school this year, and I am currently attending the University of Washington for Computer Science.
+I have graduated high school this year, and I am currently attending the University of Washington for Computer Science.  As a part of [Advanced Robotics at UW](https://aruw.org), I am exploring the robotics and embedded systems spaces.
 
 ## Table Of Contents
 
